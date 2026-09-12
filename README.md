@@ -49,9 +49,3 @@ you'll need:
   `sentence-transformers`, `transformers`, `huggingface-hub`, `wget`
 - Your own IBM watsonx.ai `credentials` and `project_id` (the notebook uses
   placeholder values that only work inside the lab environment)
-
-## Attribution
-
-This lab was created by IBM Skills Network (Kang Wang, Faranak Heidari, with
-contributions from Sina Nazeri and Wojciech Fulmyk). © IBM Corporation. All
-rights reserved. Reproduced here for personal learning purposes.
